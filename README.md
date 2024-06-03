@@ -1,2 +1,2 @@
-# oopenlineageextension
+# openlineageextension
 Openlineage extension through environment variables demo
